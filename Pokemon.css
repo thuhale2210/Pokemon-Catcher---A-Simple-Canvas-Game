@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+#tv-screen {
+    padding: 30px 30px 30px 30px;
+    margin: 30px 30px 10px 100px;
+    border: 5px solid #6b1c4e;
+    height: 75vh;
+    border-radius: 15%;
+    background-color: #347c44;
+}
+
+body {
+    background-color: #e77e23;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#bgImage {
+    box-shadow: 0 0 8px 8px white inset;
+}
+
+#resetButton,
+#speedButton {
+    background-color: #fed176;
+    color: #6b1c4e;
+    border: 2px solid #6b1c4e;
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+    border-radius: 50%;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+}
+
+#score-timer-container {
+    display: flex;
+}
+
+#score, #timer {
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+    flex: 1;
+}
+
+#logo {
+    display: flex;
+    justify-content: center;
+}
+
+#power-on {
+    height: 100px;
+    margin-left: 1%;
+}
+
+img {
+    height: 110px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+canvas {
+    cursor: grab;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+canvas:active {
+    cursor: grabbing;
+}
