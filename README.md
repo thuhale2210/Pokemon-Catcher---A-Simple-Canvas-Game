@@ -6,7 +6,7 @@ Link to lostdecade's project: https://github.com/lostdecade/simple_canvas_game
 --------------------------------------------------------------------------------------------------------
 Game Preview
 
-![Screen Shot 2023-03-14 at 9 54 18 AM](https://user-images.githubusercontent.com/120136659/225023364-a903dbbe-54c6-4346-8f0e-7cab7bd8ce14.png)
+![Screen Shot 2023-03-14 at 10 00 17 AM](https://user-images.githubusercontent.com/120136659/225025001-12b33a0f-4826-4a00-9af7-00a855253810.png)
 
 How To Play
 
