@@ -10,6 +10,6 @@ Game Preview
 
 How To Play
 
-1. The bug hops randomly around the game area at a given interval. The player tries to catch the bug by clicking on it.
+1. The Pokemon hops randomly around the game area at a given interval. The player tries to catch the Pokemon by clicking on it.
 2. Player can reset the speed to the initial hopping interval by clicking the Reset Speed button.
 3. Player can start again by resetting the score by clicking the Reset Score button.
