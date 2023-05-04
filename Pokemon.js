@@ -11,7 +11,7 @@ var bgImage = new Image();
 bgImage.onload = function () {
     bgReady = true;
 };
-bgImage.src = "images/background.png";
+bgImage.src = "Images/background.png";
 bgImage.id = "bgImage";
 
 // pikachu image
@@ -20,7 +20,7 @@ var pikachuImage = new Image();
 pikachuImage.onload = function () {
     pikachuReady = true;
 };
-pikachuImage.src = "images/pikachu.png";
+pikachuImage.src = "Images/pikachu.png";
 
 // Game objects
 var pikachu = {
